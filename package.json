@@ -3,8 +3,7 @@
 	"version":      "0.1.0",
 	"description":  "Basic Ergosign webapp generator",
 	"files":        [
-		"app",
-		"eswebapp"
+		"generators"
 	],
 	"keywords":     [
 		"yeoman-generator"
