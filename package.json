@@ -1,0 +1,21 @@
+{
+	"name":         "generator-es",
+	"version":      "0.1.0",
+	"description":  "Basic Ergosign webapp generator",
+	"files":        [
+		"app",
+		"eswebapp"
+	],
+	"keywords":     [
+		"yeoman-generator"
+	],
+	"author":       "Dominik Buhl",
+	"dependencies": {
+		"yeoman-generator": "^0.20.1"
+	},
+	"private": true,
+	"repository":   {
+		"type": "git",
+		"url":  "https://github.com/esdominikb/generator-es.git"
+	},
+}
